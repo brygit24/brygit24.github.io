@@ -1,4 +1,6 @@
-#### Using Mocha/Chai and IIFE's
-[Mocha PI](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
+#### Tetsing with JavaScript, Mocha & Chai
+[PI](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
 
-[Mocha PII](https://brygit24.github.io/liveCoding/detectMochaPII.mp4)
+[PII](https://brygit24.github.io/liveCoding/detectMochaPII.mp4)
+
+[PIII](https://brygit24.github.io/liveCoding/detectMochaPIII.mp4)
