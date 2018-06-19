@@ -1,4 +1,4 @@
-#### Creating and Verifying CC network numbers with JavaScript, Mocha & Chai
+#### Creating and verifying CC network #'s with JavaScript, Mocha & Chai
 [PI](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
 
 [PII](https://brygit24.github.io/liveCoding/detectMochaPII.mp4)
