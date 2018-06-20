@@ -5,4 +5,4 @@
 
 [PIII](https://brygit24.github.io/liveCoding/detectMochaPIII.mp4)
 
-[test...](https://github.com/brygit24/testbuilder)
+[GitHub Location](https://github.com/brygit24/testbuilder)
