@@ -7,7 +7,7 @@
 
 [GitHub](https://github.com/brygit24/testbuilder)
 
-#### Use MAP to make easy work of formatting an inventory from an array of object
+#### Use MAP to make easy work of formatting an inventory from an array of objects
 
 [video](https://brygit24.github.io/liveCoding/renderShoes.mp4)
 
