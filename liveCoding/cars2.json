@@ -1,6 +1,6 @@
 [
 {
-    "make": "FORD",
+    "make": "Audi",
     "model": "A7",
     "vin": "09AGHY64352JITEG98K",
     "metadata": {
@@ -23,21 +23,84 @@
 {
     "make": "Chevy",
     "model": "Vette",
-    "vin": "09AGHY64352JITEG98K",
+    "vin": "23AGHY64352JITEG98K",
     "metadata": {
         "Color": "Blue",
-        "Notes": "Scratches on the Hood"
+        "Notes": "After market Rear Tires"
     },
     "perdayrent": {
-        "Price": 140,
-        "Discount": 15
+        "Price": 210,
+        "Discount": 10
     },
     "metrics": {
-        "yoymaintenancecost": 2190.76,
-        "depreciation": 2256.43,
+        "yoymaintenancecost": 3190.76,
+        "depreciation": 1256.43,
+        "rentalcount": {
+            "lastweek": 2,
+            "yeartodate": 121
+        }
+    }
+},
+{
+    "make": "Tesla",
+    "model": "Sedan Screamer",
+    "vin": "98AGHY64352JITEG98K",
+    "metadata": {
+        "Color": "Blue",
+        "Notes": "Electric and FAST"
+    },
+    "perdayrent": {
+        "Price": 300,
+        "Discount": 12
+    },
+    "metrics": {
+        "yoymaintenancecost": 190.76,
+        "depreciation": 940.43,
         "rentalcount": {
             "lastweek": 4,
-            "yeartodate": 221
+            "yeartodate": 421
+        }
+    }
+},
+{
+    "make": "Ford",
+    "model": "F 250",
+    "vin": "68AGHY64352JITEG98K",
+    "metadata": {
+        "Color": "Silver",
+        "Notes": "Some off Roading Character marks"
+    },
+    "perdayrent": {
+        "Price": 290,
+        "Discount": 17
+    },
+    "metrics": {
+        "yoymaintenancecost": 2132.76,
+        "depreciation": 1556.43,
+        "rentalcount": {
+            "lastweek": 2,
+            "yeartodate": 92
+        }
+    }
+},
+{
+    "make": "Porsce",
+    "model": "911",
+    "vin": "37AGHY64352JITEG98K",
+    "metadata": {
+        "Color": "Red",
+        "Notes": "High Performance"
+    },
+    "perdayrent": {
+        "Price": 410,
+        "Discount": 10
+    },
+    "metrics": {
+        "yoymaintenancecost": 4190.76,
+        "depreciation": 1001.43,
+        "rentalcount": {
+            "lastweek": 2,
+            "yeartodate": 321
         }
     }
 }
