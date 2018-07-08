@@ -8,7 +8,7 @@
        },
   "perdayrent" : {
       "Price" : 140,
-       "Discount" : 15,
+       "Discount" : 15
        },
   "metrics" : {
        "yoymaintenancecost" : 2190.76,
