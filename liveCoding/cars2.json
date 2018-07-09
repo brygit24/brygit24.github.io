@@ -105,6 +105,27 @@
     }
 },
 {
+    "make": "Bugati",
+    "model": "convertable",
+    "vin": "34rtHY64352JITEG98K",
+    "metadata": {
+        "Color": "Red",
+        "Notes": "High Performance"
+    },
+    "perdayrent": {
+        "Price": 460,
+        "Discount": 5
+    },
+    "metrics": {
+        "yoymaintenancecost": 4200.76,
+        "depreciation": 900.43,
+        "rentalcount": {
+            "lastweek": 1,
+            "yeartodate": 109
+        }
+    }
+},    
+{
     "make": "Tesla",
     "model": "SUV",
     "vin": "27AGHr64352JITEG98K",
