@@ -22,7 +22,7 @@
 },
 {
     "make": "Chevy",
-    "model": "Vette",
+    "model": "Corvette",
     "vin": "23AGHY64352JITEG98K",
     "metadata": {
         "Color": "Blue",
@@ -64,7 +64,7 @@
 },
 {
     "make": "Ford",
-    "model": "F 250",
+    "model": "F250",
     "vin": "68AGHY64352JITEG98K",
     "metadata": {
         "Color": "Silver",
