@@ -82,6 +82,27 @@
           "yeartodate": 221
       }
   }
+},  
+{
+    "make": "Tesla",
+    "model": "Economy",
+    "vin": "98AGHY64352JITEG98K",
+    "metadata": {
+        "Color": "Brown",
+        "Notes": "Plain Version, hood scratch"
+    },
+    "perdayrent": {
+        "Price": 150,
+        "Discount": 15
+    },
+    "metrics": {
+        "yoymaintenancecost": 200.76,
+        "depreciation": 840.43,
+        "rentalcount": {
+            "lastweek": 4,
+            "yeartodate": 416
+        }
+    }
 },    
 {
     "make": "Porsce",
