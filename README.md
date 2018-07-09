@@ -1,9 +1,11 @@
 #### JSONCars Test:
+[Test Instructions](https://github.com/brygit24/brygit24.github.io/blob/master/liveCoding/JSONCars%20Test%20Instructions)
+
 [video](https://brygit24.github.io/liveCoding/JSONCars.mp4)
 
 [GistFile](https://gist.github.com/brygit24/e934ee6010ad3c4465f1ba84198bd876)
 
-[Test Instructions](https://github.com/brygit24/brygit24.github.io/blob/master/liveCoding/JSONCars%20Test%20Instructions)
+
 
 #### Working with JavaScript, Mocha & Chai to create large test suites
 [PI - video](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
