@@ -103,5 +103,26 @@
             "yeartodate": 321
         }
     }
-}
+},
+{
+    "make": "Tesla",
+    "model": "SUV",
+    "vin": "27AGHr64352JITEG98K",
+    "metadata": {
+        "Color": "Blue",
+        "Notes": "Rear latch problems"
+    },
+    "perdayrent": {
+        "Price": 350,
+        "Discount": 14
+    },
+    "metrics": {
+        "yoymaintenancecost": 3410.76,
+        "depreciation": 1022.43,
+        "rentalcount": {
+            "lastweek": 4,
+            "yeartodate": 221
+        }
+    }
+} 
 ]
