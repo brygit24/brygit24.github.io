@@ -1,6 +1,8 @@
 #### JSONCars Test:
 [video](https://brygit24.github.io/liveCoding/JSONCars.mp4)
 
+[GistFile](https://gist.github.com/brygit24/e934ee6010ad3c4465f1ba84198bd876)
+
 #### Working with JavaScript, Mocha & Chai to create large test suites
 [PI - video](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
 
@@ -10,7 +12,7 @@
 
 [GitHub](https://github.com/brygit24/testbuilder)
 
-#### Use MAP to make easy work of formatting an inventory from an array of objects
+#### Using MAP to make easy work of formatting an inventory from an array of objects
 
 [video](https://brygit24.github.io/liveCoding/renderShoes.mp4)
 
