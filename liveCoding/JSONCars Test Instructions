@@ -1,0 +1,84 @@
+Objective:
+  * Solve the Test Problem presented below by:
+     - addressing my interpretation of what the task is, the "spec" so to speak
+     - addressing assumptions of the test
+     - demonstrate high level approach
+     - demonstrate implementation at a high level
+
+The test problem to solve is:
+
+The below represents the server response JSON schema from a web service written for a car rental company.  This is usually a lot 
+more elaborate and decomposed but for the sake of this exercise below is the single response.
+
+Below is the schema definition
+  "Car" : {
+     "make": <String>
+     "model": <String>
+     "vin": <String>
+     "metadata" : {
+         "Color" : <String>
+         "Notes" : <String>
+         }
+     "perdayrent" : {
+        "Price" : <Float>
+         "Discount" : <Float>
+         }
+     "metrics" : {
+         "yoymaintenancecost" : <Float>
+         "depreciation": <Float>
+         "rentalcount" : {
+             "lastweek" : <Int>
+             "yeartodate" : <Int>
+             }
+         }
+    }    
+    The web server will return the response. You will always receive a list of cars from the server. 
+    An example of the response is:
+     "Car" : {
+     "make": "Audi",
+     "model": "A7",
+     "vin": "09AGHY64352JITEG98K",
+     "metadata" : {
+         "Color" : "Black",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 140,
+         "Discount" : 15,
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }   
+Please Model the request/ response Objects. If Object mapper / marshaller is required then please also comment appropriately
+Question 1: Print all the blue Teslas received in the web service response. Also print the notes    Question 2: Return all cars which have the lowest per day rental cost for both cases:    			a. Price only
+               b. Price after discounts
+Question 3: Find the highest revenue generating car. year over year maintenance cost + depreciation is the total expense per car for the full year for the rental car company. The objective is to find those cars that produced the highest profit in the last year
+
+•	Assignment Interpretation
+- Emulate receiving a JSON web response with data that follows the schema illustrated above
+-  Code to find and display all of the blue tesla’s
+-  Code to calculate, find and display the lowest price per day rental.
+-  Code to calculate, find and display the most profitable auto rental unit.
+
+•	Assumptions
+- The sample input is not necessary “clean” JSON
+- It is not required to emulate sending data back to a webserver. 
+- Question 2 is to calculate the lowest priced car inclusive of discount, not x lowest priced cars.                   
+
+High Level Approach:
+// Validate the JSON
+// Emulate receiving a JSON response by adding more test data and loading the JSON to github.
+// Create a simple web page layout to display results
+// Create the JSON call and request
+// Use a “unload” to display results on web page
+// Write a function to look for and display blue Tesla’s
+// Write a function to look for and display lowest cost rental
+// Write a function to look for and display best profiting rental
+// Display a profit table of all cars
+// Display a price table of all cars.
