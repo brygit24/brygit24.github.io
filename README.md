@@ -1,4 +1,4 @@
-#### A sample of Parsing JSON data:
+#### Parsing JSON data
 [Test Instructions](https://github.com/brygit24/brygit24.github.io/blob/master/liveCoding/JSONCars%20Test%20Instructions)
 
 [Video](https://brygit24.github.io/liveCoding/JSONCars.mp4)
