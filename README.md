@@ -16,7 +16,7 @@
 
 [GitHub](https://github.com/brygit24/testbuilder)
 
-#### Using MAP to format an inventory of arrays to objects
+#### Using MAP to format an inventory of an array of objects
 
 [Video](https://brygit24.github.io/liveCoding/renderShoes.mp4)
 
