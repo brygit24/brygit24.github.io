@@ -1,4 +1,4 @@
-#### TestBuilder Video Demonstration Using JavaScript Mocha a Chai to build and test a fictitious credit card network
+#### TestBuilder Video Demo: Using JavaScript, Mocha and Chai to build and test a fictitious credit card network
 [PI - Video](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
 
 [PII - Video](https://brygit24.github.io/liveCoding/detectMochaPII.mp4)
