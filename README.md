@@ -1,4 +1,4 @@
-#### Using JavaScript, Mocha and Chai to build and test a fictitious credit card network
+#### Using JavaScript, Mocha and Chai to test a fictitious credit card network
 [PI - Video](https://brygit24.github.io/liveCoding/detectMochaPI.mp4)
 
 [PII - Video](https://brygit24.github.io/liveCoding/detectMochaPII.mp4)
