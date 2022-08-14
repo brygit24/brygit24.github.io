@@ -31,8 +31,8 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files foo foo foo  |
-| git diff | Show file differences that haven't been staged  foo too |
+| Command         |               Description |
+| ---             | --- |
+| git status | List all new or modified files foo foo foo           sdfsdfd sdfsdf  |
+| git diff | Show file differences that haven't been staged  foo too   asdfsdsss    |
 
