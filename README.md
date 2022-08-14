@@ -33,6 +33,6 @@
 
 | Command         |               Description |
 | ---             | --- |
-| git status | List all new or modified files foo foo foo           sdfsdfd sdfsdf  |
-| git diff | Show file differences that haven't been staged  foo too   asdfsdsss    |
+| git status      | List all new or modified files foo foo foo           sdfsdfd sdfsdf  |
+| git diff        | Show file differences that haven't been staged  foo too   asdfsdsss    |
 
