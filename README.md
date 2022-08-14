@@ -32,7 +32,7 @@
 | Content Cell  | Content Cell  |
 
 | Command         |               Description |
-| ---             | --- |
-| git status      | List all new or modified files foo foo foo           sdfsdfd sdfsdf  |
+| ---             | ---                       |
+| [Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)   | Breakout - Game Programming  |
 | git diff        | Show file differences that haven't been staged  foo too   asdfsdsss    |
 
