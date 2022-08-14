@@ -1,4 +1,7 @@
-## Java Progamming Examples - Stanford Everywhere CS106A
+## Java and JavaScript Progamming Examples 
+
+## Stanford Everywhere CS106A -- Java
+
 ### Breakout - Game Programming
 [Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)
 ### Hangman - Game Programming
