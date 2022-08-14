@@ -26,13 +26,13 @@
 ### Using Map to format/decorate an Array of Objects
 [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4)
 
-| First Header  | Second Header |
+| First Header        | Second Header       |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| git status | List all new or modified files foo foo foo  |
+| git diff | Show file differences that haven't been staged  foo too |
 
