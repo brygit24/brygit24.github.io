@@ -26,7 +26,7 @@
 ### Using Map to format/decorate an Array of Objects
 [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4)
 
-| Java Programming - Stanford CS106A             |  |
+| Java Programming - Stanford Everywhere CS106A             |  |
 | ----------- | ---------------------- |
 |Breakout - Game Programming  |[Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)   |
 |Hangman - Game Programming  |[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)  |
