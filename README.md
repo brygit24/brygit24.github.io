@@ -37,7 +37,7 @@
 | JavaScript Programming - Coding BootCamp Prep |  |
 |------------------- | ---------------------|
 | Parsing JSON Data | [Click to View and Listen](https://brygit24.github.io/liveCoding/JSONCars.mp4) |
-| Using Map to Format and Decorate an Array of Object | [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) |
+| Using Map to Format & Decorate an Array of Objects | [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) |
 
 
 
