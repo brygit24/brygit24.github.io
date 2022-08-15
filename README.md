@@ -32,7 +32,7 @@
 | [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) | Content Cell carp dam caro duen caro duian |
 
 |Java Programming - Stanford CS106A   |   |
-| ---             | ---                       |
+| ---             | ---                               |
 |[Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)    | Breakout - Game Programming  |
 |[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)     | HangMan - Game Programming    |
 |[Click to View and Listen](https://brygit24.github.io/liveCoding/yahtZee.mp4)     | YahtZee - Game Programming | 
