@@ -35,4 +35,5 @@
 | ---             | ---                       |
 | [Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)   | Breakout - Game Programming  |
 |[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)          | HangMan - Game Programming    |
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/yahtZee.mp4) | YahtZee - Game Programming | 
 
