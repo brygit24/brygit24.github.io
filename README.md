@@ -30,6 +30,7 @@
 | ----------- | ---------------------- |
 |Breakout - Game Programming  |[Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)   |
 |Hangman - Game Programming  |[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)  |
+|Yahtzee - Game Programming | [Click to View and Listen](https://brygit24.github.io/liveCoding/yahtZee.mp4) |
 
 |Java Programming    | Stanford CS106A    |
 | ---             | ---                               |
