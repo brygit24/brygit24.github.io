@@ -34,7 +34,7 @@
 |Namesurfer - Database & Graphics Programming | [Click to View and Listen](https://brygit24.github.io/liveCoding/nameSurfer.mp4) |
 |Facepamphlet - Programming a Social Network |[Click to View and Listen](https://brygit24.github.io/liveCoding/facePamphlet.mp4) |
 
-| JavaScript Programming - Coding BootCamp Prep - Pre-cursor to Java | |
+| JavaScript Programming - Coding BootCamp Prep | Java Pre-Cursor |
 |------------------- | ---------------------|
 | Parsing JSON Data | [Click to View and Listen](https://brygit24.github.io/liveCoding/JSONCars.mp4) |
 
