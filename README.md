@@ -29,7 +29,7 @@
 | First Header        | Second Header       |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
-| [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) | Content Cell  |
+| [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) | Content Cell carp dam caro duen caro duian |
 
 |Java Programming - Stanford CS106A   |   |
 | ---             | ---                       |
