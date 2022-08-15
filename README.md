@@ -26,9 +26,9 @@
 ### Using Map to format/decorate an Array of Objects
 [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4)
 
-| Java Programming - Stanfird CS106A     | Second Header       |
+| Java Programming - Stanford CS106A     |        |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)  | Breakout - Game Programming  |
 | [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) | Content Cell carp dam caro duen caro duian |
 
 |Java Programming - Stanford CS106A   |   |
