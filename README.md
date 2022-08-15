@@ -31,7 +31,7 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-|          |Standford CS106A - Java Programming |
+|Java Programming - Stanford CS106A   |   |
 | ---             | ---                       |
 | [Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)   | Breakout - Game Programming  |
 |[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)          | HangMan - Game Programming    |
