@@ -40,6 +40,7 @@
 | Using Map to Format & Decorate an Array of Objects | [Click to View and Listen](https://brygit24.github.io/liveCoding/renderShoes.mp4) |
 | Programming & Testing a fictictous credit card network | [Click to View and Listen PartI](https://brygit24.github.io/liveCoding/detectMochaPI.mp4) |
 | | [Click to View and Listen PartII](https://brygit24.github.io/liveCoding/detectMochaPII.mp4) |
+| | [Click to View and Listen PartIII](https://brygit24.github.io/liveCoding/detectMochaPIII.mp4) |
 
 
 
