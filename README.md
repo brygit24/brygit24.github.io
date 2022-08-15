@@ -32,6 +32,7 @@
 |Hangman - Game Programming  |[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)  |
 |Yahtzee - Game Programming | [Click to View and Listen](https://brygit24.github.io/liveCoding/yahtZee.mp4) |
 |Namesurfer - Database & Graphics Programming | [Click to View and Listen](https://brygit24.github.io/liveCoding/nameSurfer.mp4) |
+|Facepamphlet - Programming a Social Network |[Click to View and Listen](https://brygit24.github.io/liveCoding/facePamphlet.mp4) |
 
 |Java Programming    | Stanford CS106A    |
 | ---             | ---                               |
