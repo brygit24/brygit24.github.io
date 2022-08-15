@@ -34,6 +34,12 @@
 |Namesurfer - Database & Graphics Programming | [Click to View and Listen](https://brygit24.github.io/liveCoding/nameSurfer.mp4) |
 |Facepamphlet - Programming a Social Network |[Click to View and Listen](https://brygit24.github.io/liveCoding/facePamphlet.mp4) |
 
+| JavaScript Programming - Coding BootCamp Prep - Pre-cursor to Java | |
+|------------------- | ---------------------|
+| Parsing JSON Data | [Click to View and Listen](https://brygit24.github.io/liveCoding/JSONCars.mp4) |
+
+
+
 |Java Programming    | Stanford CS106A    |
 | ---             | ---                               |
 |[Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)    | Breakout - Game Programming  |
