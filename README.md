@@ -33,7 +33,9 @@
 
 |Java Programming - Stanford CS106A   |   |
 | ---             | ---                       |
-| [Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)   | Breakout - Game Programming  |
-|[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)          | HangMan - Game Programming    |
-|[Click to View and Listen](https://brygit24.github.io/liveCoding/yahtZee.mp4) | YahtZee - Game Programming | 
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/breakOut.mp4)    | Breakout - Game Programming  |
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/hangMan.mp4)     | HangMan - Game Programming    |
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/yahtZee.mp4)     | YahtZee - Game Programming | 
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/nameSurfer.mp4)  | NameSurfer - Database and Graphics Programming  |
+|[Click to View and Listen](https://brygit24.github.io/liveCoding/facePamphlet.mp4)| FacePamplet - Programming a Social Network |  
 
